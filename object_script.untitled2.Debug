@@ -1,0 +1,16 @@
+INPUT(
+./debug\connection.o
+./debug\dialog.o
+./debug\dumessengerserver.o
+./debug\dumessengersocket.o
+./debug\employe.o
+./debug\equipements.o
+./debug\help.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\qrc_res.o
+./debug\moc_dialog.o
+./debug\moc_dumessengersocket.o
+./debug\moc_help.o
+./debug\moc_mainwindow.o
+);

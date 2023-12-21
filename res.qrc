@@ -1,0 +1,113 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icons/ai (1).png</file>
+        <file>icons/clipboard_120835.svg</file>
+        <file>icons/executive_person_icon-icons.com_72414.svg</file>
+        <file>icons/graphic_card_electronic_device_motherboard_smps_hardware_chip_1_icon-icons.com_53529.svg</file>
+        <file>icons/home-svgrepo-com.svg</file>
+        <file>icons/icons8-add-48.png</file>
+        <file>icons/icons8-add-481.png</file>
+        <file>icons/icons8-add-new-50.png</file>
+        <file>icons/icons8-add-new-100.png</file>
+        <file>icons/icons8-audit-50.png</file>
+        <file>icons/icons8-audit-100.png</file>
+        <file>icons/icons8-chart-24.png</file>
+        <file>icons/icons8-chart-50.png</file>
+        <file>icons/icons8-chart-100.png</file>
+        <file>icons/icons8-client-management-30.png</file>
+        <file>icons/icons8-client-management-50.png</file>
+        <file>icons/icons8-client-management-60.png</file>
+        <file>icons/icons8-client-management-90.png</file>
+        <file>icons/icons8-client-management-100.png</file>
+        <file>icons/icons8-combo-chart-50.png</file>
+        <file>icons/icons8-combo-chart-100.png</file>
+        <file>icons/icons8-crayon-64.png</file>
+        <file>icons/icons8-delete-trash-24.png</file>
+        <file>icons/icons8-file-preview-24.png</file>
+        <file>icons/icons8-file-preview-64.png</file>
+        <file>icons/icons8-home-page-30.png</file>
+        <file>icons/icons8-home-page-60.png</file>
+        <file>icons/icons8-home-page-90.png</file>
+        <file>icons/icons8-line-chart-24.png</file>
+        <file>icons/icons8-line-chart-50.png</file>
+        <file>icons/icons8-line-chart-100.png</file>
+        <file>icons/icons8-name-tag-50.png</file>
+        <file>icons/icons8-name-tag-100.png</file>
+        <file>icons/icons8-ok-64.png</file>
+        <file>icons/icons8-poubelle-64.png</file>
+        <file>icons/icons8-project-management-50.png</file>
+        <file>icons/icons8-project-management-100.png</file>
+        <file>icons/icons8-refresh-50.png</file>
+        <file>icons/icons8-refresh-100.png</file>
+        <file>icons/icons8-sign-out-48.png</file>
+        <file>icons/icons8-sign-out-96.png</file>
+        <file>icons/icons8-statistics-24.png</file>
+        <file>icons/icons8-task-completed-50.png</file>
+        <file>icons/icons8-task-completed-100.png</file>
+        <file>icons/tab_client_icon-icons.com_72436.svg</file>
+        <file>icons/icons8-multiple-devices-100.png</file>
+        <file>icons/icons8-ai-64.png</file>
+        <file>icons/icons8-log-out-48.png</file>
+        <file>fonts/TT-Wellingtons-Trial-Medium.otf</file>
+        <file>icons/icons8-log-out-24.png</file>
+        <file>icons/icons8-log-out-96.png</file>
+        <file>icons/icons8-funnel-50.png</file>
+        <file>icons/icons8-funnel-100.png</file>
+        <file>icons/icons8-funnel-w-50.png</file>
+        <file>icons/icons8-funnel-w-100.png</file>
+        <file>icons/output-onlinepngtools.png</file>
+        <file>icons/icons8-numeric-50.png</file>
+        <file>icons/icons8-numeric-100.png</file>
+        <file>icons/icons8-reversed-numerical-sorting-24.png</file>
+        <file>icons/hide.png</file>
+        <file>icons/icons8-mail-48 (1).png</file>
+        <file>icons/icons8-mail-48.png</file>
+        <file>icons/icons8-multiple-devices-50.png</file>
+        <file>icons/show.png</file>
+        <file>icons/icons8-key-security-48.png</file>
+        <file>icons/icons8-chat-box-66.png</file>
+        <file>icons/icons8-import-csv-50.png</file>
+        <file>icons/icons8-import-csv-100.png</file>
+        <file>icons/icons8-txt-50.png</file>
+        <file>icons/icons8-txt-100.png</file>
+        <file>icons/icons8-pdf-50.png</file>
+        <file>images/Capture3.PNG</file>
+        <file>icons/icons8-drop-down-64.png</file>
+        <file>icons/icons8-drop-down-50.png</file>
+        <file>icons/icons8-sort-down-50.png</file>
+        <file>icons/icons8-help-50.png</file>
+        <file>icons/icons8-night-mode-25.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/aaron-burden-1AeyDMRVEt0-unsplash.jpg</file>
+        <file>images/Capture.PNG</file>
+        <file>images/Capture2.PNG</file>
+        <file>images/Capture-removebg-preview (1).png</file>
+        <file>images/Capture-removebg-preview (2).png</file>
+        <file>images/Capture-removebg-preview.png</file>
+        <file>images/icons8-computer-60.png</file>
+        <file>images/logo evolve-1.png</file>
+        <file>images/miriam-espacio-GdSsWvVT2Hc-unsplash.jpg</file>
+        <file>images/nauris-pukis-lilvMkYv0V0-unsplash.jpg</file>
+        <file>images/page login-1.png</file>
+        <file>images/simon-lee-zft-W1kVEhg-unsplash.jpg</file>
+        <file>images/Untitled-1-removebg-preview.png</file>
+        <file>images/simon-lee-zft-W1kVEhg-unsplash_resized960_1080.jpg</file>
+        <file>images/Capture_logo_login-removebg-preview.png</file>
+        <file>images/Capture1-removebg-preview.png</file>
+        <file>images/simon-lee-zft-W1kVEhg-unsplash1.jpg</file>
+        <file>images/Capture3.PNG</file>
+        <file>images/Capture_d_ecran_2023-03-26_211950-removebg-preview.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>fonts/CartoGothicStd-Bold.otf</file>
+        <file>fonts/CartoGothicStd-BoldItalic.otf</file>
+        <file>fonts/CartoGothicStd-Book.otf</file>
+        <file>fonts/CartoGothicStd-Italic.otf</file>
+        <file>fonts/couture-bld.otf</file>
+        <file>fonts/couture-bldit.otf</file>
+        <file>fonts/TT-Wellingtons-Trial-Medium.otf</file>
+        <file>fonts/DefaultSans-Regular.ttf</file>
+        <file>fonts/TT Chocolates Trial Bold.otf</file>
+    </qresource>
+</RCC>
